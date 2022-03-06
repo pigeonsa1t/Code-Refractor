@@ -5,12 +5,12 @@
 }
 body {
     background-color: #d9dcd6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /*HEADER START*/
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -19,7 +19,7 @@ header h1 {
     font-weight: bold;
     font-size: 48px;
     color: #d9dcd6;
-}   
+}  
 header nav {
     padding-top: 15px;
     margin-right: 20px;
