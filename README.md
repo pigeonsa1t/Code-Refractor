@@ -1,9 +1,9 @@
 # Code-Refractor
 Challenge Week 1
 
-### Technologies Used : 
+### Technologies Used: 
 1. HTML 
-2. CSS00000000000000000
+2. CSS
 ______________________________________________________
 ### AS A - marketing agency
 ### I WANT - a codebase that follows accessibility standards
