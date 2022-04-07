@@ -1,5 +1,5 @@
 # Code-Refractor
-Challange week 1
+Challenge Week 1
 
 ### Technologies Used : 
 1. HTML 
@@ -11,7 +11,7 @@ ______________________________________________________
 
 ![challenge 1 mockup](https://user-images.githubusercontent.com/100164686/157092274-7d14d6eb-7240-4b0d-8ff8-8dfbb6efbbf5.png)
 ______________________________________________________
-##### GIVEN - a webpage meets accessibility standards...
+GIVEN - a webpage meets accessibility standards...
 
 - WHEN - I view the source code
 THEN I find semantic HTML elements
@@ -28,4 +28,4 @@ THEN they fall in sequential order
 - WHEN - I view the title element
 THEN I find a concise, descriptive title
 ______________________________________________________  
-made by pigeonsa1t 🕊
+ + made by pigeonsa1t 🕊
